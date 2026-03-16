@@ -1,4 +1,7 @@
 # Customer-Segmentation-Product-Recommendation
+
+## 📌 Project Overview:
+
 This project focuses on transforming raw e-commerce transaction data into actionable business intelligence. By leveraging unsupervised machine learning, I developed a dual-layered system that first categorizes customers into distinct behavioral segments and then provides personalized product recommendations to drive engagement.
 I have implemented segmentation using K-Means, Isolation Forest, and RFM, 91.64% accuracy. Also built Neural Collaborative Filtering-based recommendations to improve user engagement.
 
